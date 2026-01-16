@@ -7,7 +7,7 @@ Playful, physics-driven 3D creatures.
 
 How to Run
 Open the link below in your browser once GitHub Pages is enabled:
-https://yourusername.github.io/p5-sketch/ //make sure to use the actual URL that is being
+https://TobeyShang.github.io/p5-sketch3/ //make sure to use the actual URL that is being
 used. This is just a placeholder.
 
 Tools Used
